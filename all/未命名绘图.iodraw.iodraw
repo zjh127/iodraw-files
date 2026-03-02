@@ -140,7 +140,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-95" value="重启&lt;div&gt;服务器/工作站&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="-420" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="-390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-99" target="gkoQ3FPxGUO2LdU6NiIu-101">
           <mxGeometry relative="1" as="geometry" />
