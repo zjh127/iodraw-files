@@ -37,10 +37,10 @@
           <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-nQWI6BsK8WgbcpLkS80-0" value="充电桩应急程序" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-30" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="-60" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-nQWI6BsK8WgbcpLkS80-3" value="" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-nQWI6BsK8WgbcpLkS80-6" value="供电故障" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="310" width="120" height="60" as="geometry" />
