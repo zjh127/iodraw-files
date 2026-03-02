@@ -226,7 +226,11 @@
           <mxGeometry x="1010" y="-420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-129" target="gkoQ3FPxGUO2LdU6NiIu-133">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-129" value="联系供配电确认停电原因及恢复时间" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1010" y="-280" width="120" height="60" as="geometry" />
