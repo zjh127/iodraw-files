@@ -124,7 +124,7 @@
         <mxCell id="-nQWI6BsK8WgbcpLkS80-31" value="同步向部门领导汇报&lt;div&gt;1.时间地点&lt;/div&gt;&lt;div&gt;2.事故类型及现状&lt;/div&gt;&lt;div&gt;3.已采取措施&lt;/div&gt;&lt;div&gt;4.是否需要支援&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="290" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="-nQWI6BsK8WgbcpLkS80-33" value="引导救援" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-nQWI6BsK8WgbcpLkS80-33" value="配合事故调查" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-10" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
