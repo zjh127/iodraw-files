@@ -103,8 +103,14 @@
         <mxCell id="-nQWI6BsK8WgbcpLkS80-25" value="协同抢修" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="640" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-nQWI6BsK8WgbcpLkS80-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-nQWI6BsK8WgbcpLkS80-27" target="-nQWI6BsK8WgbcpLkS80-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-nQWI6BsK8WgbcpLkS80-27" value="保障核心设备供电" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-nQWI6BsK8WgbcpLkS80-29" value="保障核心设备供电" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
