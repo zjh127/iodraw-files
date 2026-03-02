@@ -102,6 +102,9 @@
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-82" target="gkoQ3FPxGUO2LdU6NiIu-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-84" target="gkoQ3FPxGUO2LdU6NiIu-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-84" value="IBMS系统" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="-210" width="120" height="60" as="geometry" />
         </mxCell>
@@ -217,6 +220,9 @@
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-129" value="联系供配电确认停电原因及恢复时间" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1010" y="-280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-131" value="IBMS系统" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="-70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
