@@ -42,7 +42,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-nQWI6BsK8WgbcpLkS80-0" value="充电桩应急程序" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-60" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="-20" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-nQWI6BsK8WgbcpLkS80-3" value="" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="310" width="120" height="60" as="geometry" />
@@ -75,7 +75,7 @@
           <mxGeometry x="-130" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-nQWI6BsK8WgbcpLkS80-17" value="引导救援" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="725" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
