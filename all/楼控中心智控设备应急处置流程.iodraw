@@ -50,7 +50,7 @@
         <mxCell id="-nQWI6BsK8WgbcpLkS80-6" value="供电故障" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-nQWI6BsK8WgbcpLkS80-8" value="充电桩应急程序" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-nQWI6BsK8WgbcpLkS80-8" value="立即紧急停机/断电" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-60" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
