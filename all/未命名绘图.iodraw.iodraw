@@ -105,6 +105,11 @@
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.479;entryY=1.179;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-84" target="gkoQ3FPxGUO2LdU6NiIu-122">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="920" y="-120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="-150" />
+              <mxPoint x="680" y="240" />
+              <mxPoint x="500" y="240" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-84" value="IBMS系统" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
