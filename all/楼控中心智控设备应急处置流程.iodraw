@@ -63,13 +63,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-nQWI6BsK8WgbcpLkS80-12" value="正确使用灭火器扑救" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-150" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="-130" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-nQWI6BsK8WgbcpLkS80-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-nQWI6BsK8WgbcpLkS80-13" target="-nQWI6BsK8WgbcpLkS80-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-nQWI6BsK8WgbcpLkS80-13" value="立即疏散&lt;div&gt;拨打67090119&lt;/div&gt;&lt;div&gt;设置警戒区域&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-nQWI6BsK8WgbcpLkS80-15" value="现场留守监控" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-150" y="725" width="120" height="60" as="geometry" />
