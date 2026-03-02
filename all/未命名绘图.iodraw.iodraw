@@ -203,7 +203,7 @@
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-122" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="-160" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-125" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-125" value="供电故障" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1010" y="-560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
