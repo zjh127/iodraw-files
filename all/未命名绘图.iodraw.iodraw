@@ -64,7 +64,7 @@
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-73" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="-300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-82" target="gkoQ3FPxGUO2LdU6NiIu-80">
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-79" target="gkoQ3FPxGUO2LdU6NiIu-80">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -79,7 +79,7 @@
           <mxGeometry x="740" y="-310" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-80" value="智能照明" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="-210" width="120" height="60" as="geometry" />
+          <mxGeometry x="567" y="-210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-82" target="gkoQ3FPxGUO2LdU6NiIu-86">
           <mxGeometry relative="1" as="geometry" />
