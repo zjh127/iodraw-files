@@ -35,6 +35,11 @@
         <mxCell id="-nQWI6BsK8WgbcpLkS80-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="-nQWI6BsK8WgbcpLkS80-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-nQWI6BsK8WgbcpLkS80-19" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-nQWI6BsK8WgbcpLkS80-7">
+          <mxGeometry x="0.2261" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="事故类型判断" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="190" y="170" width="100" height="80" as="geometry" />
         </mxCell>
@@ -48,7 +53,7 @@
           <mxGeometry x="180" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-nQWI6BsK8WgbcpLkS80-6" value="供电故障" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-nQWI6BsK8WgbcpLkS80-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-nQWI6BsK8WgbcpLkS80-8" target="-nQWI6BsK8WgbcpLkS80-12">
           <mxGeometry relative="1" as="geometry" />
@@ -57,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-nQWI6BsK8WgbcpLkS80-8" value="立即紧急停机/断电" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-20" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="-20" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-nQWI6BsK8WgbcpLkS80-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-nQWI6BsK8WgbcpLkS80-12" target="-nQWI6BsK8WgbcpLkS80-15">
           <mxGeometry relative="1" as="geometry" />
