@@ -174,8 +174,14 @@
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-106" value="恢复正常" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="560" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-116" target="gkoQ3FPxGUO2LdU6NiIu-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-116" value="通过ETS发送开关灯操作" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="567" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-120" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="617" y="310" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
