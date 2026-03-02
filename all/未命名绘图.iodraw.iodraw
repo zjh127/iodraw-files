@@ -102,8 +102,14 @@
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-89" value="启用ETS直连应急控制" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="567" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-91" target="gkoQ3FPxGUO2LdU6NiIu-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-91" value="绕开瘫痪网络，携带电脑和KNX接口接入末端总线" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="567" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-93" value="绕开瘫痪网络，携带电脑和KNX接口接入末端总线" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="567" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
