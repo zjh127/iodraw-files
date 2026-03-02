@@ -130,7 +130,7 @@
         <mxCell id="-nQWI6BsK8WgbcpLkS80-33" value="配合事故调查" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-10" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-nQWI6BsK8WgbcpLkS80-36" value="协同抢修" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-nQWI6BsK8WgbcpLkS80-36" value="故障恢复" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
