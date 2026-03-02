@@ -78,6 +78,9 @@
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-79" value="系统" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="-310" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-80" target="gkoQ3FPxGUO2LdU6NiIu-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-80" value="智能照明" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="567" y="-210" width="120" height="60" as="geometry" />
         </mxCell>
@@ -92,6 +95,9 @@
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-82" value="楼宇自控系统" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="-210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-89" value="智能照明" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="567" y="-70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
