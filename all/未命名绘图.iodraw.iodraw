@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-73" value="恢复网络通讯" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-79" target="gkoQ3FPxGUO2LdU6NiIu-80">
           <mxGeometry relative="1" as="geometry">
