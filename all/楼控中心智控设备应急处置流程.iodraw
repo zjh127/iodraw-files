@@ -35,7 +35,7 @@
         <mxCell id="-nQWI6BsK8WgbcpLkS80-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="-nQWI6BsK8WgbcpLkS80-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-nQWI6BsK8WgbcpLkS80-20" value="供电故障" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-nQWI6BsK8WgbcpLkS80-7">
+        <mxCell id="-nQWI6BsK8WgbcpLkS80-20" value="UPS/供电故障" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-nQWI6BsK8WgbcpLkS80-7">
           <mxGeometry x="-0.3913" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
