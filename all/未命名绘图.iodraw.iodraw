@@ -102,6 +102,9 @@
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-84" value="IBMS系统" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="-210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-86" target="gkoQ3FPxGUO2LdU6NiIu-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-86" value="联系能源中心将涉及机组切换至手动运行" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
@@ -182,6 +185,9 @@
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-120" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="-190" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-122" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="40" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
