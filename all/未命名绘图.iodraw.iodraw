@@ -120,7 +120,7 @@
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-91" value="绕开瘫痪网络，携带电脑和KNX接口接入末端总线" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="567" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-93">
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-93" target="gkoQ3FPxGUO2LdU6NiIu-106">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="627" y="200" as="targetPoint" />
           </mxGeometry>
