@@ -22,7 +22,7 @@
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-61" value="判断故障并准备" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="527" y="110" width="115" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-63" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-63" value="网络通讯故障" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-65" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
