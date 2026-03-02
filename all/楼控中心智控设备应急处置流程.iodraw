@@ -52,7 +52,7 @@
         <mxCell id="-nQWI6BsK8WgbcpLkS80-3" value="" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-nQWI6BsK8WgbcpLkS80-6" value="供电故障" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-nQWI6BsK8WgbcpLkS80-6" value="切换至s" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-nQWI6BsK8WgbcpLkS80-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-nQWI6BsK8WgbcpLkS80-8" target="-nQWI6BsK8WgbcpLkS80-12">
