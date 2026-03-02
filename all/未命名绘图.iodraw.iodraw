@@ -179,7 +179,7 @@
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-105" value="监测到报警/接到报修" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="565" y="-780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-106" value="恢复正常" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-106" value="故障排除&lt;div&gt;恢复正常&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-122" target="gkoQ3FPxGUO2LdU6NiIu-73">
