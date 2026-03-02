@@ -64,11 +64,9 @@
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-73" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="-300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-79" target="gkoQ3FPxGUO2LdU6NiIu-80">
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-82" target="gkoQ3FPxGUO2LdU6NiIu-80">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="630" y="-137" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-79" target="gkoQ3FPxGUO2LdU6NiIu-82">
@@ -81,19 +79,28 @@
           <mxGeometry x="740" y="-310" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-80" value="智能照明" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="-80" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="-210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-82" target="gkoQ3FPxGUO2LdU6NiIu-86">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-82" value="楼宇自控系统" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-84" value="IBMS系统" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-86" value="楼宇自控系统" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-79" target="gkoQ3FPxGUO2LdU6NiIu-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="-230" as="sourcePoint" />
+            <mxPoint x="630" y="-150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="-137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-82" value="楼宇自控系统" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
