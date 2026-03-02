@@ -41,7 +41,7 @@
           <mxGeometry x="525" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-71" value="网络能否短时恢复" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="545" y="550" width="80" height="80" as="geometry" />
+          <mxGeometry x="530" y="550" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
