@@ -67,8 +67,7 @@
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-79" target="gkoQ3FPxGUO2LdU6NiIu-80">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="690" y="-97" />
-              <mxPoint x="690" y="-97" />
+              <mxPoint x="600" y="-137" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -85,10 +84,10 @@
           <mxGeometry x="540" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-82" value="楼宇自控系统" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="-30" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-84" value="IBMS系统" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="-30" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
