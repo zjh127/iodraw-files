@@ -72,11 +72,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-79" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-79" value="系统" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="-137" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-80" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="-137" width="120" height="60" as="geometry" />
+          <mxGeometry x="584.5" y="-127" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
