@@ -109,7 +109,7 @@
           <mxGeometry x="567" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-93" value="通过ETS发送开关灯操作" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="567" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="567" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
