@@ -141,7 +141,7 @@
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-113" value="恢复" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gkoQ3FPxGUO2LdU6NiIu-107">
           <mxGeometry x="-0.7511" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-95" value="重启&lt;div&gt;服务器/工作站&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
