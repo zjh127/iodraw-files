@@ -13,11 +13,17 @@
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-61" target="gkoQ3FPxGUO2LdU6NiIu-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-61" target="gkoQ3FPxGUO2LdU6NiIu-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-61" value="判断故障并准备" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="527" y="110" width="115" height="115" as="geometry" />
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-63" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="329.5" y="137.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-65" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="524.5" y="332.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
