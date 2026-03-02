@@ -148,12 +148,12 @@
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-106" value="恢复正常" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-108" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-108" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-101">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="-50" as="sourcePoint" />
             <mxPoint x="350" y="340" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="730" y="-50" />
+              <mxPoint x="320" y="110" />
               <mxPoint x="680" y="-100" />
             </Array>
           </mxGeometry>
