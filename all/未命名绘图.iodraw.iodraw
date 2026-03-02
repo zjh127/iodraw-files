@@ -120,14 +120,8 @@
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-91" value="绕开瘫痪网络，携带电脑和KNX接口接入末端总线" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="567" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-93" target="gkoQ3FPxGUO2LdU6NiIu-106">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="627" y="200" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="630" y="460" />
-              <mxPoint x="650" y="460" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-93" target="gkoQ3FPxGUO2LdU6NiIu-116">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-93" value="通过ETS发送开关灯操作" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="567" y="60" width="120" height="60" as="geometry" />
@@ -179,6 +173,9 @@
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-106" value="恢复正常" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-116" value="通过ETS发送开关灯操作" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="567" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
