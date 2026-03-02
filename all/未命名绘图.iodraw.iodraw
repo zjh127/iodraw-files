@@ -123,6 +123,9 @@
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-93" target="gkoQ3FPxGUO2LdU6NiIu-106">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="627" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="560" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-93" value="通过ETS发送开关灯操作" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
