@@ -218,7 +218,7 @@
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-127" target="gkoQ3FPxGUO2LdU6NiIu-129">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-127" value="检查UPS设备" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-127" value="检查UPS设备，确保市电恢复前供电正常" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1010" y="-420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-129" value="联系供配电确认停电原因及恢复时间" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
