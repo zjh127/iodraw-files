@@ -120,7 +120,7 @@
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-95" value="切换至备用&lt;div&gt;服务器/工作站&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="-420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-97" value="向部门领导汇报影响范围" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-97" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="-210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
