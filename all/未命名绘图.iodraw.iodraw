@@ -19,7 +19,7 @@
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkoQ3FPxGUO2LdU6NiIu-61" target="gkoQ3FPxGUO2LdU6NiIu-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-61" value="判断故障并准备" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-61" value="故障定级分析" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="527" y="110" width="115" height="115" as="geometry" />
         </mxCell>
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-63" value="网络通讯故障" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
