@@ -221,8 +221,8 @@
         <mxCell id="gkoQ3FPxGUO2LdU6NiIu-129" value="联系供配电确认停电原因及恢复时间" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1010" y="-280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-131" value="IBMS系统" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="-70" width="120" height="60" as="geometry" />
+        <mxCell id="gkoQ3FPxGUO2LdU6NiIu-131" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
